@@ -1,4 +1,6 @@
 #ローカルのRが使えるのかどうか？
+#/lustre7/home/hmiwa-spc/local/bin/R
+#/lustre7/home/hmiwa-spc/local/bin/Rscript
 #r-test以下で実行すること。
 #まずは文字の出力とファイルの出力から。
 print(1+1)
