@@ -1,0 +1,9 @@
+#ローカルのRが使えるのかどうか？
+#r-test以下で実行すること。
+#まずは文字の出力とファイルの出力から。
+print(1+1)
+print("hogehoge")
+sink("test01.txt")
+print(1+1)
+print("hogehoge")
+sink()
