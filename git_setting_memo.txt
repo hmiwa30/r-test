@@ -1,0 +1,5 @@
+cd hmiwa/r-test
+git init
+git remote add origin git@github.com:hmiwa30/r-test.git
+git pull origin HEAD:main
+#README.md in this directory!
